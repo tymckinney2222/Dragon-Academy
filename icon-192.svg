@@ -1,0 +1,21 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="80" fill="#071520"/>
+  <path d="M256 40 L440 120 L440 300 Q440 440 256 480 Q72 440 72 300 L72 120 Z" fill="#0c2030" stroke="#f97316" stroke-width="8"/>
+  <path d="M256 72 L412 142 L412 300 Q412 418 256 452 Q100 418 100 300 L100 142 Z" fill="none" stroke="rgba(251,191,36,0.25)" stroke-width="4"/>
+  <ellipse cx="256" cy="300" rx="72" ry="52" fill="#1a1a2e"/>
+  <ellipse cx="256" cy="210" rx="58" ry="50" fill="#1a1a2e"/>
+  <path d="M208 180 L176 110 L222 172" fill="#111122"/>
+  <path d="M304 180 L336 110 L290 172" fill="#111122"/>
+  <path d="M184 288 L88 240 L140 310 Z" fill="#1a1a2e"/>
+  <path d="M328 288 L424 240 L372 310 Z" fill="#1a1a2e"/>
+  <path d="M292 340 Q340 370 320 420 Q300 385 256 360" fill="#1a1a2e"/>
+  <circle cx="232" cy="204" r="14" fill="#071520"/>
+  <circle cx="280" cy="204" r="14" fill="#071520"/>
+  <circle cx="232" cy="204" r="9" fill="#38bdf8" opacity="0.9"/>
+  <circle cx="280" cy="204" r="9" fill="#38bdf8" opacity="0.9"/>
+  <circle cx="235" cy="201" r="3" fill="white" opacity="0.6"/>
+  <circle cx="283" cy="201" r="3" fill="white" opacity="0.6"/>
+  <path d="M256 260 Q236 278 210 295 Q236 282 256 272 Q276 282 302 295 Q276 278 256 260Z" fill="#f97316" opacity="0.8"/>
+  <path d="M256 272 Q242 285 226 298 Q244 289 256 281 Q268 289 286 298 Q270 285 256 272Z" fill="#fbbf24" opacity="0.6"/>
+  <text x="256" y="454" text-anchor="middle" font-family="serif" font-size="32" fill="rgba(251,191,36,0.5)" letter-spacing="12">ᚦᚱᚨᚷ</text>
+</svg>

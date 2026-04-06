@@ -1,0 +1,23 @@
+<svg viewBox="0 0 430 932" xmlns="http://www.w3.org/2000/svg">
+  <rect width="430" height="932" fill="#071520"/>
+  <!-- centered icon -->
+  <g transform="translate(107, 316)">
+    <rect width="216" height="216" rx="40" fill="#0c2030"/>
+    <path d="M108 18 L186 52 L186 128 Q186 188 108 206 Q30 188 30 128 L30 52 Z" fill="#0c2030" stroke="#f97316" stroke-width="4"/>
+    <path d="M108 34 L174 64 L174 128 Q174 178 108 194 Q42 178 42 128 L42 64 Z" fill="none" stroke="rgba(251,191,36,0.25)" stroke-width="2"/>
+    <ellipse cx="108" cy="130" rx="30" ry="22" fill="#1a1a2e"/>
+    <ellipse cx="108" cy="90" rx="24" ry="21" fill="#1a1a2e"/>
+    <path d="M87 76 L74 46 L94 72" fill="#111122"/>
+    <path d="M129 76 L142 46 L122 72" fill="#111122"/>
+    <path d="M78 122 L37 103 L59 131 Z" fill="#1a1a2e"/>
+    <path d="M138 122 L179 103 L157 131 Z" fill="#1a1a2e"/>
+    <circle cx="97" cy="87" r="6" fill="#38bdf8" opacity="0.9"/>
+    <circle cx="119" cy="87" r="6" fill="#38bdf8" opacity="0.9"/>
+    <path d="M108 110 Q99 117 88 124 Q99 119 108 115 Q117 119 128 124 Q117 117 108 110Z" fill="#f97316" opacity="0.8"/>
+  </g>
+  <!-- title -->
+  <text x="215" y="580" text-anchor="middle" font-family="Georgia,serif" font-size="32" font-weight="bold"
+    fill="#fbbf24" letter-spacing="3">DRAGON ACADEMY</text>
+  <text x="215" y="618" text-anchor="middle" font-family="Georgia,serif" font-size="16"
+    fill="rgba(251,191,36,0.5)" letter-spacing="6">ᚦᚱᚨᚷᛟᚾ</text>
+</svg>
